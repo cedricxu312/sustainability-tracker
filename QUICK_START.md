@@ -1,4 +1,4 @@
-# 🚀 Quick Start Guide
+# Quick Start Guide
 
 ## Prerequisites
 - Node.js (v16 or higher)
@@ -41,7 +41,7 @@ cd frontend
 npm start
 ```
 
-## 🔧 Troubleshooting
+## Troubleshooting
 
 ### Port Already in Use Error
 If you see `EADDRINUSE: address already in use :::3001`:
@@ -65,17 +65,17 @@ npm run start:safe
 - Check file permissions: `ls -la backend/data/`
 - Ensure the `backend/data/` directory exists
 
-## 📱 Access the Application
+## Access the Application
 - **Frontend**: http://localhost:3000
 - **Backend API**: http://localhost:3001
 
-## 🎯 Quick Test
+## Quick Test
 1. Open http://localhost:3000
 2. Click "Add New Action"
 3. Fill out the form and submit
 4. Verify the action appears in the table
 
-## 🆘 Need Help?
+## Need Help?
 - Check the main README.md for detailed documentation
 - Look at the troubleshooting section in README.md
 - Ensure all dependencies are installed correctly
