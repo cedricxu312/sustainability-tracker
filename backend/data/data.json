@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "action": "John",
+    "date": "2025-01-08",
+    "points": 1000
+  },
+  {
+    "id": 4,
+    "action": "sunny",
+    "date": "2025-01-08",
+    "points": 10
+  },
+  {
+    "id": 6,
+    "action": "miceeio",
+    "date": "2025-08-09",
+    "points": 78
+  },
+  {
+    "id": 7,
+    "action": "eddddd",
+    "date": "2025-08-28",
+    "points": 3
+  }
+]
